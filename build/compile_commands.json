@@ -1,8 +1,0 @@
-[
-{
-  "directory": "C:/Users/k0sha/Desktop/popitka2/build",
-  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -std=gnu++17 -fopenmp -fopenmp -o CMakeFiles\\ParallelSort.dir\\main.cpp.obj -c C:\\Users\\k0sha\\Desktop\\popitka2\\main.cpp",
-  "file": "C:\\Users\\k0sha\\Desktop\\popitka2\\main.cpp",
-  "output": "CMakeFiles\\ParallelSort.dir\\main.cpp.obj"
-}
-]
