@@ -1,0 +1,3 @@
+C:/Users/k0sha/Desktop/popitka2/build/CMakeFiles/ParallelSort.dir
+C:/Users/k0sha/Desktop/popitka2/build/CMakeFiles/edit_cache.dir
+C:/Users/k0sha/Desktop/popitka2/build/CMakeFiles/rebuild_cache.dir
